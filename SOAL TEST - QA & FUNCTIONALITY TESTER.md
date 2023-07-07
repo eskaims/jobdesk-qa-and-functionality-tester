@@ -28,8 +28,3 @@ Dari proses flow tersebut, Anda diminta untuk membuat:
 3. Simulasikan dalam bentuk dokumen Laporan Hasil Test secara lengkap (normal skenario & negatif skenario) yang mencakup functional test, performance test, dan integration test.
 
 
-Kirimkan dokumen test yang Anda buat via email atau shared link selambat-lambatnya pada Selasa, 11 Juli 2023 pukul 13.00.
-
-Pengumuman hasil test online & undangan teknikal interview (jika lolos) akan diinformasikan pada Kamis, 13 Juli 2023.
-
-
